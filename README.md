@@ -168,4 +168,4 @@ h1{
 ![HTML VALIDATOR](./vd.png)
 
 ## RESULT:
-The programm for desinging a simple calculator using Javascript is Executed Successfully3.
+The programm for desinging a simple calculator using Javascript is Executed Successfully.
